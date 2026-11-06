@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "demandes": "Requests",
+    "reseau": "Network",
+    "flotte": "Fleet",
+    "histoire": "History",
+    "entreprise": "Company",
+    "organigramme": "Organization",
+    "certifications": "Certifications",
+    "secteurs": "Sectors",
+    "actualites": "News",
+    "qualite": "Quality",
+    "contact": "Contact",
+    "quote": "Get a Quote",
+    "track": "Track"
+  },
+  "header": {
+    "tagline": "Ground transport & logistics · Algeria"
+  },
+  "hero": {
+    "kicker": "Tailored solutions for your business requirements",
+    "title": "Movement, mastered.",
+    "giant": "SOTRAZ",
+    "subtitle": "SOTRAZ organizes your staff movements, road flows and resource provision with the same operational rigor.",
+    "ctaPrimary": "Explore services",
+    "ctaSecondary": "Talk to our teams"
+  },
+  "stats": {
+    "vehicles": { "value": "+1000", "label": "vehicles", "sub": "Across our fleet" },
+    "years": { "value": "+35 years", "label": "of expertise", "sub": "Since 1991" },
+    "people": { "value": "+20000", "label": "people / day", "sub": "Shipments a year" },
+    "km": { "value": "106232", "label": "km / day", "sub": "Route quotidienne" }
+  },
+  "home": {
+    "featuredTag": "Tailored solutions for your business requirements",
+    "featuredTitle": "Global Freight Multimodal",
+    "featuredDesc": "Complete door-to-door solutions across every major corridor, seamlessly connecting road, air and ocean freight.",
+    "servicesTitle": "ALL SET FOR SEAMLESS TRANSPORTATION",
+    "solutionsTitle": "TAILORED SOLUTIONS FOR YOUR BUSINESS REQUIREMENTS",
+    "sectorsTitle": "SERVING BUSINESSES ACROSS SECTORS",
+    "trustedTitle": "TRUSTED BY THE WORLD'S BEST BRANDS",
+    "ctaTitle": "READY TO MOVE YOUR CARGO?",
+    "ctaDesc": "Get a custom freight quote in under 60 seconds — no commitments, no hidden fees.",
+    "ctaBtn": "Get a Free Quote"
+  },
+  "demandes": {
+    "title": "Requests",
+    "lead": "Describe your operational need — our teams reply Sunday to Thursday."
+  },
+  "reseau": {
+    "title": "Our network in Algeria",
+    "lead": "Explore our branches and services available by region."
+  },
+  "histoire": {
+    "title": "Our history",
+    "lead": "The DNA of SOTRAZ since 1991 — a path forged in the field."
+  },
+  "organigramme": {
+    "title": "Organization chart",
+    "lead": "A clear chain of responsibility."
+  },
+  "certifications": {
+    "title": "Certifications & Licences",
+    "lead": "Our quality, safety and compliance commitments."
+  },
+  "flotte": {
+    "title": "Our fleet",
+    "lead": "Diversified transport means serving our operations and partners."
+  },
+  "services": {
+    "title": "Every mission, its own setup.",
+    "lead": "We combine means, teams and organization to fit your sites, schedules and constraints."
+  },
+  "contact": {
+    "title": "Let's talk about your need.",
+    "lead": "Share useful context so our teams can route your request precisely."
+  },
+  "footer": {
+    "desc": "Global logistics and transportation built for businesses that demand speed, reliability, and control.",
+    "services": "SERVICES",
+    "company": "COMPANY",
+    "resources": "RESOURCES",
+    "rights": "© 2026 SOTRAZ SPA. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "learn": "Learn More",
+    "allServices": "All Services",
+    "explore": "Explore Our Platform",
+    "request": "Request a Quote"
+  }
+}
